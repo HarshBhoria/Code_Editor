@@ -1,1 +1,1 @@
-# This is the Code app
+# This is the CodeEditor app
