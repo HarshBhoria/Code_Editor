@@ -1,1 +1,1 @@
-# This is the Code Editor
+# This is the Code app
